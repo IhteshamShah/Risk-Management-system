@@ -1,8 +1,8 @@
 # Risk-Management-system
 
 Research Highlights.
-•	Medical Examination at Nuclear Medicine Department carries out at multiple stages
 
+•	Medical Examination at Nuclear Medicine Department carries out at multiple stages
 •	Patients and accompanying nurses could be exposed to harmful radiation inside of NMD
 •	Tracker continuously monitors and sends the patient's position to the Controller.
 •	Controller, based on Reinforcement Learning model, sends the guidance message to the patient.
