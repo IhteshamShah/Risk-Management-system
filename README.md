@@ -1,16 +1,4 @@
-# Risk-Management-system
+# Risk-Management-system-in-Nuclear-Medicine-Department-(NMD)
 
-Research Highlights.
-
-•	Medical Examination at Nuclear Medicine Department carries out at multiple stages
-
-•	Patients and accompanying nurses could be exposed to harmful radiation inside of NMD
-
-•	Tracker continuously monitors and sends the patient's position to the Controller.
-
-•	Controller, based on Reinforcement Learning model, sends the guidance message to the patient.
-
-•	Deployment of proposed system reduces the costs and fewer people exposed to radiation
-
-![image](https://github.com/IhteshamShah/Risk-Management-system/assets/96585337/24079a35-1544-461a-ad85-2721ea44871d)
+A medical examination at Nuclear Medicine Department (NMD) carries out at multiple stages. Patients are accompanied and guided by nurses during their movements within the NMD to avoid them entering into any hazardous situation. However, even accompanying nurses could be exposed to harmful radiation, which puts their safety at risk. Artificial Intelligence (AI) technologies can address these issues by supporting these processes avoiding risky situations, and preventing patients’ and clinicians’ safe. This article presents an artificial intelligence-based architecture for risk management during the nuclear medical examination to automatically guide the patients during the medical examination and support injury prevention. The architecture comprises two main components; the first component integrates Deep Learning (DL) techniques and WiFi tools to monitor and verify the patient’s position continuously; the second integrates Reinforcement Learning (RL) techniques to guide the patient during his/her examination. Experimental results show the suitability of the proposed architecture. Therefore the proposed risk management system can support the prevention of risks and injuries during medical examination and reduce operational costs.
 
